@@ -1,0 +1,1032 @@
+Todas las fotos	Opavave ta'angakuéra	
+Todas las fuentes de fotos	opavave ta'angakuéra moheñoiha	
+Fotos	Ta'angakuéra	
+No hay álbumes creados aún	ne'írã oĩ ta'anga'aty renda	
+Nuevas fotos	Ta'angakuéra ipyahúva	
+Álbumes de fotos	Ta'anga'atykuéra	
+Crear álbum de fotos	Ta'anga'aty moheñói	
+Crear nuevo álbum	Ta'anga'aty pyahu moheñói	
+Crear uno ahora	Emoheñói peteĩ ko'áğa	
+Cargar fotos	Ehupi ta'angakuéra	
+Ver todas las fotos	Ehecha opaite ta'angakuéra	
+Fotos de %s	Ta'angakuéra % papygua	
+No hay capturas aún	Ne'írã ojejapo gueteri	
+Por	mba'ére	
+Archivos cargados	mba'e ñongatupy ojehupíva	
+Cargado por %1$s Ojehupíva % papyguágui	
+Editando álbum %	Ta'angakuéra ñemboheko %	
+Cargar multiples fotos	Ta'angaeta jehupi	
+Mis fotos	Che ta'angakuéra	
+Regresar al álbum	Ejevy ta'anga'atýpe	
+Establecer como cubierta	Ta'anga ojehecharãétava	
+Eliminar foto	Ta'anga jehekýi	
+Haga click aquí para una carga simple	ejopy ko'ápe ehupi hağua	
+Seleccionar un álbum	Eiporavo peteĩ ta'anga'aty	
+Seleccionar archivo	eiporavo mba'e ñongatupy	
+Cargar multiples archivos de una vez	Ehupi heta mba'e ñongatupy peteĩ jeýpe	
+Iniciar carga	Eñepyrũ ehupi	
+La funcionalidad multimedia está desactivado	Multimedia rehegua ndaipóri	
+% fotos	% ta'angakuéra	
+Imágenes desde este álbum	Ta'angakuéra ko ta'anga'aty guive	
+No hay fotos cargadas aún	Ne'írã oĩ ta'angakuéra ojehupíva	
+Eliminar foto	Ta'anga jehekýi	
+Actualizado	Ñembopyahu	
+Editar	Mboheko jey	
+Nuevo álbum creado	Ta'anga'aty pyahu moheñói	
+Álbum editado	Ta'anga'aty mboheko jey	
+Disculpa, el sistema necesita una id adecuada a procesar	Ñyrõ, tekotevẽ techaukaha tee oñembohape hağua	
+Crear álbum	Ta'anga'aty moheñói	
+Nombre del álbum	Ta'anga'aty réra	
+Descripción	Ta'angahai	
+Guardar	Ñongatu/eñongatu	
+Rotar al izquierda	Embojere asu gotyo	
+Rotar a la derecha	Embojere akatúa gotyo	
+Establecer una imagen para el perfil	Eiporavo peteĩ ta'anga rejehechauka hağua	
+Esto cambiará su imagen actual del perfil a la foto actual.Estás seguro de querer hacer esto?	kóva omoambuéta nera'anga ko'áğaygua, rejaposépa upéva	
+Imagen del perfil modificada correctamente	Ta'anga rejehechaukaha oñemoambue hekopete	
+Imposible modificar la imagen del perfil porque la foto no está disponible localmente	Ndikatúi oñemoambue ta'anga, noĩri jepuru hağuáicha	
+La foto se ha removido correctamente	Ta'anga oñemohenda hekopete	
+Tipo de archivo no válido	Mba'e iñongatupy oiko'ỹva	
+Error de servidor	Ñanduti  ndojejuhúi	
+Error de seguridad	Ñangarekoha jejavy	
+Fallo de validación. Carga omitida	jejavy. Ojehupiséva ndikatúi	
+Cancelado	ñembotove	
+Parado	pyta	
+La foto ha sido despublicada	ta'anga noñemysãivéima	
+En este álbum	ko ta'anga'atýpe	
+En esta foto	ko ta'angápe	
+Quién las puede ver	mávapa ikatu ohecha	
+Aplicar a todas las fotos	eipuru opavave ta'angáre	
+Ubicación	tenda	
+Ejemplo: San Jose, California	Techapyrã: San José, California	
+Este álbum ya ha sido destacado	ko ta'anga'aty ojehecharamóma	
+No tienes permitido editar esta foto	ndaikatúi reipuru ko ta'anga	
+Límite para carga de fotos alcanzado	apevénte ikatu rehupi ta'anga	
+No se ha proveído de una imagen	Ndojehupíri ta'anga	
+Videos	ta'angamýikuéra	
+Cambiar video perfil	kuaaukarã ta'angamýi ñemoambue	
+Video Perfil	tekokuaa ta'angamýi	
+Los video perfiles han sido desactivados por el administrador	ko toguejára oipe'a ta'angamýi kuaaukarã	
+Este miembro no posee video perfil agregado	ko ava ndoguerekói ta'angamýi kuaaukarã	
+Agregar Video Perfil	ehupi ta'angamýi kuaaukarã	
+Video perfil actual	ta'angamýi kuaaukarã ko'áğagua	
+Eliminar video perfil	ta'angamýi kuaaukarã jeipe'a	
+Estas seguro de querer eliminar este video perfil de este perfil?	añetehápepa reipe'ase ta'angamýi ko kuaaukahágui	
+Descripción	ta'angahai	
+Este video ha sido enlazado a su perfil. Su video perfil actual será reemplazado.Estás seguro de querer hacer esto?	ko ta'angamýi ojoaju  kuaaukaháre. Nde ta'angamýi kuaaukaha oñemyengoviáta. Añetehápepa rejapose ko mba'e?	
+El video ha sido enlazado a su video perfil	Ta'angamýi  oñembojoaju ko ta'angamýi kuaaukaha ndive.	
+Por favor agregue videos a la página de videos y entonces seleccione uno de estos para que sea utilizado como su video perfil	ehupína ta'angamýi togue ta'angamýi reheguápe ha upépe eiporavo peteĩ ojeipuru hağua ta'angamýi kuaaukaháramo.	
+Por favor haga click en “Eliminar video” para eliminar el video	ejapo click he'ihápe “eipe'a ta'anga” eipe'a hağua ko ta'angamýi.	
+Video	ta'angamýi	
+Todos los videos	opavave ta'angamýi	
+Agregar video	embojoapy ta'angamýi	
+Cargar video	ehupi ta'angamýi	
+Enlazar video	embojoaju taángamýi	
+URL del video	URL ta'angamýi rehegua	
+Mis videos	che ta'angamýikuéra	
+Videos pendientes	ta'angamyikuéra oha'ãrõva	
+Videos de grupo pendientes	ta'angamyikuéra atypegua oha'ãrõva	
+No hay videos agregado aún	ndaipóri gueteri ta'angamýi  oñembojoajúva	
+Iniciar video	ta'angamýi ñepyrũ	
+Estado	tekorenda ¿mba'épa neremiandu?	
+Convirtiendo video...	ta'angamýi ñemoambue…	
+Agragar fecha	arange mbojoapy	
+Longitud	pukukue	
+Últimos Videos	ta'angamýi ipyahuvéva	
+Ver todos los videos	opavave ta'angamýi jehecha	
+Comentarios de muro	ñe'ẽrã iñasãiva rendágui	
+Privacidad	ojekuaaukase'ỹva	
+Mirar todos los videos pendientes	ta'angamỹi ojehecha'ỹva gueteri	
+Seleccionar archivo de video	eiporavo ta'angamỹi ñongatupy	
+Quién lo puede ver	Mávapa ikatu ohecha	
+Seleccionar fotos	Ta'anga jeiporavo	
+Seleccionar álbum de fotos	Ta'anga'aty jeiporavo	
+Error en permisos al tratar de crear el directorio para el almacenamiento de fotos. Por favor contacte al administrador del sitio	Terarysýi apópe ta'angakuéra ñemboheta reheguápe oiko jejavy. Eporandumi ko tenda járape.	
+Últimos videos	Ta'angamyikuéra ojehupiramóva	
+Más debatidos	Oñeñe'ẽvévare	
+Más populares	Ojeikuaavéva	
+Título	Téra	
+La imagen excede el límite de tamaño permitido	ta'anga tuichave tekotevẽgui	
+Expandir	eipyso	
+Opciones	heta mba'e ikatúva	
+Configuraciones	ñemboheko tekotevẽháicha	
+Una vez que los videos son cargados, quedan almacenados en cola para ser procesados. Una vez procesados a continuación, los vídeos son retirados de dicha sección de espera y están listos para ser vistos	ojehupi rire ta'angamýi, oñembyaty oñehesa'ỹijo hağua. Upe rire oĩma ojehecha hağua	
+sin título	hera'ỹva	
+Sin descripción	ha'angahai'ỹre	
+La carga de videos ha sido desactivada	ta'angamýi ojehupíva oso	
+El archivo de video no pudo ser guardado	ta'angamýi iñongatupýva ndikatúi oñeñongatu	
+El archivo de video no pudo ser cargado	ta'angamýi iñongatupýva ndikatúi ojehupi	
+Error en archivo de video	ta'angamýi iñongatupývape jejavy	
+El video ha sido agregado	ta'angamýi oñembojoapy	
+Los videos han sido desactivados	ta'angamyikuéra ndikatuvéima ojeipuru	
+ha sido guardado	oñeñongatu	
+ha agregado un nuevo video	embojoapy peteĩ ta'angamýi pyahu	
+actor	ojapokuaáva	
+Reportar video	ta'angamýi hendape'ỹva mombe'u	
+Sin descripción	ha'angahai'ỹre	
+Disculpe, este video ha sido eliminado o no existe	ñyrõ, ko ta'angamýi ojehekýi térã ndaipóri	
+Filtrar videos por categoría	ta'angamýi jeiporavo iñemohenda rupi	
+Videos de	ta'angamýi rehegua	
+Categorías de videos	ta'angamýi ñemohenda	
+no ha agregado ningún video aún	ne'írã rehupi ta'angamýi	
+El archivo de video excede el límite establecido de %1 MB	ta'angamýi iñongatupýva tuichave % 1 MB-gui	
+Por favor inicie sesión para poder ver este video	ñepyrũ guivéna eike ehecha hağua ko ta'angamýi	
+Necesitas ser amigo de %1 para poder ver este video	eñemoirũva'erã ehecha hağua ko ta'angamýi	
+Este video es visible solo por su creador	ko ta'angamýi ijárante ikatu ohecha	
+Editar video	ta'angamýi mboheko jey	
+Eliminar video	ta'angamýi jehekýi	
+El video ha sido eliminado	ta'angamýi ojehekýima	
+Estas seguro de querer eliminar	ehekyisépa añetehápe	
+Creado el	oñemoheñói	
+Actualizado	oñembopyahu	
+Vistas	ehecha	
+Puedes crear un enlace a el siguiente proveedor de video	ikatu eñepyrũ mbojoaju ta'ãngamýi jára ndive	
+Puede cargar su propio video desde su disco duro. Por favor observe con cuidado las siguientes reglas	ikatu rehupi ta'angamýi nde disco duro guive. Ejesareko porã ko ñembohape rehe.	
+El archivo debe ser inferior a %	mba'e ñongatupy michĩveva'erã %-gui	
+El video no puede ser más largo que 10 minutos	Ta'angamýi ndikatúi ipukuve 10 aravo'ivégui	
+Sólo los siguientes formatos son soportados: mpg, mpeg, avi, divx, mp4, flv, wmv, mov, asf	ko'ãva formato-nte ikatu ojehupi mpg, mpeg, avi, divx, mp4, flv, wmv, mov, asf	
+Enlace permanente	akóintegua mbojoaju	
+Editar detalles del video	Ta'angamýi rehegua ñemboheko	
+Título	Ñe'ẽrã	
+Descripción	Ta'angahai	
+Categoría	Ñemohenda	
+Fallo al descargar el video	Ta'angamýi ñemboguejýpe oiko jejavy	
+Enlace de video no válido. Por favor inserte un enlace con _QQQ_http://_QQQ_	Ta'angamýi mbojoaju ndaha'éi. Eipuru peteĩ mbojoaju _QQQ_http://_QQQ_, rehe	
+ID de video nó valida. Por favor verifique la disponibilidad del video en su sitio original:	
+Proveedor de videos no válido	ID ta'angamýi rehegua ndaha'éi	
+No hay videos destacados aún	ndaipóri ta'angamýi poravopyre gueteri	
+Está ahora siendo destacado en la comunidad	ko'áğa ojehecharamo atýpe	
+Video removido de la lista de destacados	ta'angamýi oñemoĩ poravopyre apytépe	
+Mostrando %1 de %2 videos	ojehecha %1, %2 ta'angamýigui	
+Muro de Video	ta'angamýi aty renda	
+Videos Destacados	ta'angamýi poravopyre	
+Ha ocurrido un error al eliminar el video. Asegúrese que los permisos estén establecidos correctamente	oiko jejavy ojehekýi jave ta'angamýi. Ehecha jey moneĩnguéra oĩporãbápa	
+Lo sentimos pero has alcanzado el límite máximo de videos permitidos para tu cuenta. Sólo se permite la carga de %1$s videos	Ñyrõ, ndikatuvéi rehupi ta'angamýi, henyhẽma ko tenda. %1 pevénte ikatu rehupi ta'angamýi.	
+Has cargado un total de %1videos de los %2 permitidos	rehupíma %1 ta'angamýi, %2 ikatúvagui	
+Buscar imagen miniatura	ta'angamýi michĩ reka	
+Nueva imagen miniatura agregada correctamente	ta'angamýi michĩ pyahu ojehupíva hendaitépe	
+Este video no está disponible en su país ya que posee restricciones de derecho de autor o ha sido eliminado por violación de terminos	ko ta'angamýi ndaipóri neretãme, péicha oipotágui ijára térã ojehekýi ndojehupíri tekotevẽháicha	
+Disculpe, pero el video ya es un destacado	ñyrõ, ta'angamýi iporavopyréma	
+Nuevos	ipyahúva	
+Popular	ojekuaavéva	
+Total de video encontrado: %1	ta'angamýi ojejuhúva: %1	
+Total de videos encontrados: %1	ta'angamyikuéra ojejuhúva: %1	
+Mi video perfil	che ta'angamýi kuaaukaha	
+Establecer como  video perfil	ta'angamýi kuaaukaháramo jepuru	
+Buscar videos	ta'angamýi jeporavo	
+Este tipo de archivo de video no es soportado: %1	kóichagua ta'angamýi ñongatupy ndikatúi ojehupi: %1	
+error de video	ta'angamýi jejavy	
+Aplicar a todos los videos	jepuru opave ta'angamýire	
+Ubicación	mohenda	
+Codigo heredado	papy térã ñe'ẽ ñemi hejapyre	
+Enlace de video no válido	ta'angamýi mbojoajúva ndaha'éi	
+Fallo al agregar enlace de video	ta'angamýi mbojoajuha ñemoĩhápe oiko jejavy	
+Los videos están desactivados	noĩri ta'angamyikuéra	
+Fallo al guardar el video	jejavy oñeñongatukuévo ta'angamýi	
+No hay video perfil	ndaipóri ta'angamýi kuaaukaha	
+Eliminar video	ta'angamýi jehekýi	
+Grupos	atykuéra	
+No se encontraron grupos	ndojejuhúi atykuéra	
+Eliminar grupo	aty jehekýi	
+Eliminando grupo %1	ojehekyihína aty %1	
+Eliminando miembros del grupo...	ojehekyihína atýpegua	
+Categorías de eventos	tembiapo ñemboheko	
+Mostrar opciones avanzadas	marandu hetaháicha jechauka	
+otros grupos	ambue atykuéra	
+boletin del grupo	marandu atypegua	
+Eliminando boletínes de grupos...	ojehekyihína marandu atypegua	
+Eliminando comentarios de muro de grupos...	jehekýi ñomongeta atykuéra rendágui	
+Eliminar paredes, muro	tenda myasãirã (muro) jehekýi	
+Eliminando debates desde grupos...	ojehekyihína ñomongeta atykuéra guive	
+Eliminar discusiones	ñomongeta peteĩ mba'e rehegua jehekýi	
+Grupos	atykuéra	
+Página del título	ñe'ẽrã rogue	
+Debates	ñombohovainguéra	
+Discusión del título	hérare ñombohovái	
+Mostrar todos los debates	opa ñombohovái jechauka	
+Ver todas las discusiones	opa ñombohovái ñemaña	
+Mostrando %1 de %2 debates	%1 ñombohovái %2-gui jechaukahína	
+Recuento de los debates	Ñombohovainguéra jeipapa jey	
+%1 Debate	%1 ñombohovái	
+Debates singulares cuentan	ñombohovái peteĩteĩ ojeipapa	
+%1Debates	%1 ñombohovái	
+Debates plurales contar con	ñombohovai'eta jeipapa	
+Debate iniciado por	ñombohovái omoñepyrũva…(avá réra)	
+Iniciado por	omoñepyrũva…	
+Iniciado por %1	omoñepyrũva %1	
+Debate agregado	ñombohovai pyahu	
+Título del debate	ñombohovái réra	
+Mensaje del debate	ñombohovái omombe'úva	
+No hay debates agregados aún	ndaipóri ñombohovái pyahu gueteri	
+Tema del debate no puede dejarse vacío	ñombohovái réra ndikatúi ojeheja nandi	
+El debate no puede dejarse vacío	ñombohovái ndokatúi ojeheja nandi	
+NoEstás autorizado para eliminar este debate	nde ndikatúi ehekýi ko ñombohovái	
+Responder al debate	ñombohovái mbohovake	
+Crear debate	ñombohovái moheñói	
+Editar	mboheko	
+Unirse al grupo	eñemboaty	
+Abandonar grupo	atýgui ñesẽ	
+Más debatido	ñombohovái hetave mbohovake orekóva	
+Con más comentarios	hetave oñeñe'ẽ hese	
+Ultimos grupos	atykuéra ipyahuvéva	
+Con más miembros	hetave oñombyatyhápe	
+Más activo	py'ỹi oñembopyahúva	
+Crear boletín	marandu moheñói	
+Boletín agregado	marandu pyahu	
+Editar los detalles de su grupo	aty rehegua ñemboheko	
+Ver su grupo ahora	ehecha nde aty ko'áğa	
+%1respuesta	%1 mbohovái	
+%1respuestas	% 1 mbohovaikuéra	
+Mostrar todos los boletines	opavave marandu jechauka	
+Mostrando %1de %2 boletines	jechauka %1, %2 marandúgui	
+No hay boletines agregados aún	ndaipóri marandu pyahu gueteri	
+%1 Miembro	%1 atygua	
+Miembros	atyguakuéra	
+Grupo despublicado	aty oñemyasãi'ỹva	
+%1 Grupo	%1 aty	
+Contar con grupos singulares	aty peteĩgua jereko	
+%1Grupos	%1 atykuéra	
+Contar con grupos plurales	aty hetáva rehegua jereko	
+Mostrar todo	ehechaukapa	
+Mostrar todos los grupos	ehechaukapa opavave atykuéra	
+ID de grupo no válida	ID ndaha'éi aty rehegua	
+Ninguno de tales grupos	mavavéva umi atykuéragui	
+Nota	marandu (ñe'ẽpoty, ensayo, peipirũ ha mba'e)	
+Crear nuevo grupo	aty pyahu moheñói	
+Crear grupo	aty moheñói	
+Mis grupos	che atykuéra	
+Agregar noticias al grupo	marandu ñembojoapy atýpe	
+Regresar al grupo	jevy atýpe	
+Buscar	heka	
+Todos los grupos	opavave atykuéra	
+Similar a	ojojogua ambue ndive	
+Boletínes	marandu	
+Título de la noticia	marandu réra	
+Descripción de la noticia	marandu ra'angahai	
+Agregar noticia	marandu mbojoapy	
+Cree sus propios grupos hoy	Emoheñói nde atykuéra ko árape	
+Crear grupos accesibles publicamente a los usuarios	moheñói atykuéra opavave oipurusévape ğuarã	
+Nombre del grupo	aty réra	
+Nombre	téra	
+Descripción	moha'angahai	
+Categoría	mboheko	
+Anuncios	ñemyasãirã	
+Boletines de noticia. Anuncios	marandu hai. Ñemyasãirã	
+Los grupos han sido desactivados por el administrador	toguejára ohekýi atykuéra	
+Información del grupo	aty rehegua marandu	
+Título del grupo	aty réra	
+Una etiqueta para la categoría	peteĩ téra mohendápe ğuarã	
+Creado	moheñói	
+Una etiqueta para el tiempo de creación	peteĩ téra moheñói árape ğuarã	
+Creado el	ára moheñóiha	
+La creacion del tiempo transcurrido desde	ára ohasáva oñemoheñói guive	
+Creador	moheñoiha	
+Ver todos los grupos	ehecha opavave atykuéra	
+Disculpe el grupo esta bajo la moderación del administrador	ñyrõ, toguejára omombegue atýpe	
+Últimos Grupos	atykuéra ipyahuvéva	
+%1comentario en muro	%1 ojehaíva máva rendáre	
+%1de usuario requiere de aprobación	% 1 oipurúvagui oikotevẽ moneĩ	
+%1de usuarios que requieren aprobación	% 1 umi oipurúvagui oikotevẽ moneĩ	
+Su aplicación esta en espera de aprobación por parte del administrador	reipuruséva ko'ápe oha'arõ toguejára ñemoneĩ.	
+Este grupo requiere de la aprobación por parte del grupo de administradores	ko aty oikotevẽ toguejára aty ñemoneĩ	
+Su aplicación será revisada pronto por el grupo de administradores	reipuruséva ko'ápe áğaite ohecharaẽta toguejára atykuéra	
+te has unido al grupo correctamente	eñembyaty hekoitépe	
+Miembros aprobados	atypegua oñemoneĩva	
+No hay categorías creadas aún	ndaipóri gueteri mohenda oñemoheñóiva	
+El nombre del boletín no puede dejarse vacío	marandu réra ndikatúi opyta nandi	
+El mensaje del boletín no puede dejarse vacío	marandu he'iséva ndikatúi inandi opytávo	
+Iniciar nuevo grupo	emoñepyrũ aty pyahu	
+Crea tu propio grupo o únete a otros	emoheñói nde atyrã térã eñembyaty ambuére	
+Cargar un nuevo avatar para su grupo	ehupi avatar pyahu nde atyrã	
+Editar avatar	emboheko avatar	
+Cargar avatar para el grupo	ehupi avatar atýpe ğuarã	
+Abajo se muestra el avatar actual del grupo	iguýpe ojehecha avatar koáğagua atýpegua	
+Puedes editar su propio avatar del grupo	embohekokuaa atypegua avatar	
+Miniatura del Avatar	avatar ñemomichĩ	
+Avatar largo	avatar puku	
+Por favor ingrese un nombre para el grupo	ehaimína peteĩ téra atýpeğuarã	
+Por favor ingrese una descripción para el grupo	ehaimína aty ra'angahai	
+Esta será mostrada en la página principal del grupo	kóva ojehechaukáta aty togueteĩme	
+Por favor seleccione una categoría	eiporavomína peteĩ mboheko	
+Esto te permite moderar los usuarios que se unan a tu grupo	kóva reipurukuaa ejesareko hağua puruhára oñembyatývape	
+Felicitaciones! Has creado un nuevo grupo. Esto es lo que puedes hacer con tu grupo:Vy'apavẽ emoheñói aty pyahu. Ko mba'e ikatu ejapo nde aty ndive	
+Grupo % creado	aty oñemoheñóiva	
+Estás seguro de borrar la discusión y sus respuestas	añetehápepa reipe'ase mbojovake ha imbohovaikuéra	
+Estás seguro de que deseas eliminar el boletín	añetehápe rehekyise marandu	
+No tienes permitido la despublicación de grupos	ndikatúi reipe'a atykuéra ñemyasãi	
+Error al tratar de guardar el grupo	oiko jejavy aty oñeñongatuhápe	
+No puedes eliminarte a ti mismo	ndikatúi nde ejeipe'a ndejupevoi	
+Miembro eliminado	atygua ojehekýiva	
+Estas seguro que deseas dejar este grupo	añetehápe rehejase ko aty	
+Se requiere de moderación para el nuevo grupo	oñeikotevẽ ñangarekohára ko atýpe ğuarã	
+Eres miembro del grupo o recientemente has tratado de unirte a un grupo que aún necesita de aprobación	ndépa atygua térã nda'aréi eñembyatyse peteĩ aty ne'irã oñemoneíva ndive	
+Estás seguro de querer unirte al grupo	añetehápepa eñembyatyse ko aty ndive	
+El nombre del grupo no puede estar vacío	aty réra ndikatúi oĩ nandi	
+El nombre del grupo ya existe. Por favor seleccione un nombre diferente	aty réra ojeipurúma. Eiporavóna ambue téra	
+La descripción del grupo no puede quedar vacía	aty ra'angahai ndikatúi opyta nandi	
+No pueden eliminarse los temas del muro	ndikatúi ojehekýi ñe'ẽrã tenda myasãirãgui- ndikatúi ojehekýi ñe'ẽrã muro-gui	
+Has dejado al grupo correctamente	eheja aty hekopete	
+Privado	(aty) ndaopavaéipe ğuarã	
+Abierto	(aty) opavavépe ğuarã	
+Todos los miembros pueden ver y unirse a este grupo	opavave atygua ikatu ohecha ha oñembyaty ko aty ndive	
+Tipo de grupo	mba'éichagua aty	
+Requiere aprobación para que nuevos miembros puedan unirse al grupo. Todos pueden ver la descripción del grupo pero solo sus miembros pueden ver su contenido	oikotevẽ moneĩ ipyahúva oike hağua atýpe. Opavave ikatu ohecha aty ra'angahai, atypegua ikatu ohecha hyepypegua	
+Este es un grupo privado. Solicite su inclusión al grupo para poder ver el contenido	ko aty ndaopavavéipe ğuarã. Ejerure atúpe ehecha hağua hyepypegua	
+Eliminar miembro del grupo	atygua jehekýi	
+Establecer como administrador del grupo	emohenda aty mohendakuaahárarõ (administrador-ramo)	
+El miembro ahora es el administrador del grupo	atygua ko'áğa ha'e aty mohendakuaahára	
+El usuario ahora es un miembro normal	puruhára ko'áğa ha'e atygua	
+Eres un administrador del grupo	nde aty mohendakuaahára	
+Eres el propietario del grupo	nde aty jára	
+La creación de grupos ha sido deshabilita por el administrador del sitio	toguejára oipe'a aty ñemoheñói	
+Invitar amigos al grupo	angirũ peipirũ oñembyaty hağua	
+Has sido invitado a unirte al grupo	reñeipepirũ eñembyaty hağua	
+La invitación ha sido enviada a los usuarios	pepirũ oñemondo puruharakuérape	
+Error al contactar con la base de datos. Póngase en contacto con el administrador de sitio	jejavy ñomomaranduhápe marandu ñongatuha renda ndive	
+Muro de grupos	aty myasãiha renda – muro aty rehegua	
+Grupo no encontrado	ndojejuhúi aty	
+Reportar debates	emombe'u ñombohovái	
+No tienes permitido eliminar grupos	ndikatúi rehekýi aty	
+Este grupo ha sido eliminado	ko aty ojehekýima	
+Estás seguro de que desea eliminar este grupo? Todos los contenidos del grupo, como anuncios, debates y comentarios en el muro se eliminarán permanentemente	añetehápepa rehekyise ko aty? Opaite marandu, ñombohovái ha oje'éva tenda myasãirãme okañýta. Naipóri jevy.	
+Error al borrar grupo	jejavy ojehekýivo aty	
+Última respuesta de %1en %2	mbohovái paha %1-gui %2-me	
+Revertir administrador a usuario	embojevy  mohendakuaahára puruhárape	
+Avatar del grupo cargado	avatar atygua ojehupi	
+Editando grupo	aty oñembohekohína	
+Grupo actualizado	aty ñembopyahu	
+Ordenar por últimas respuestas	mohenda mbohovái ğuahẽ rupi	
+Ordenar por fecha de creación	mohenda arange rupi	
+Ordenar por debates	mohenda mbohovairã rupi	
+Establecer el orden de los debates cuando sean vistos desde la página de inicio del grupo	mbohovairã mohenda ojehecha vove aty togue ñepyrũha guive	
+Permitir a miembros del grupo la creación de álbumes y el cargado de fotos	atygua ikatu omoheñói ta'anga aty ha ijehupi	
+Permitir solo a los administradores la creación de álbumes y el cargado de fotos	mohendakuaaharakuéra añónte ikatu omoheñói ta'anga aty ha ta'anga hupi	
+Permitir a los miembros el cargado de videos	jeheja atygua tohupi ta'angamýi	
+Permitir solo a los administradores el cargado de videos	jeheja mohendakuaaharakuéra tohupi ta'angamýi	
+Necesitas ser un miembro de este grupo para ver este vídeo	atyguáva'erã rehecha hağua ta'angamýi	
+Necesitas ser un miembro de este grupo para ver este álbum	atyguáva'erã rehecha hağua ta'anga aty	
+Necesitas ser un miembro de este grupo para ver esta foto	atyguáva'erã rehecha hağua ko ta'anga	
+Establezca los permisos para las fotos del grupo	emoĩ máva ikatukuaa ohecha atygua ra'anga	
+Establezca los permisos para los videos del grupo	emoĩ máva ikatukuaa ohecha aty ta'angamýi	
+Lo sentimos, pero has alcanzado el límite máximo para la creación de grupos en tu cuenta. Solo se permite crear %1 grupo(s)	Ñyrõ, ndaikatuvéima emoheñói aty ko tendápe (cuenta). %1-nte ikatu emoheñói.	
+Has creado grupos permitidos a crear	emoheñói atykuéra ikatúva	
+Lo sentimos, pero has alcanzado el límite máximo de subida de fotos en tu cuenta. Solo se permite subir %1 fotos	Ñyrõ, ndaikatuvéima rehupi ta'anga ko tendápe	
+Álbumes del grupo	atygua ta'anga aty	
+Videos del grupo	atygua ta'angamyikuéra	
+El número de videos recientes del grupo para ser mostrados dentro del grupo, el valo mínimo es 1	atygua ta'angamýi pyahukuéra ojehecha hağua atýpe, ha'e peteĩnte	
+Al seleccionar esta opción, todas las actividades existentes que se asocian con este grupo será eliminadas	reiporavo vove opaite oĩva ojoajúva ko aty ndive ojehekýita	
+Eliminar actividades asociadas	ehekýi tembiapoita ojoajúva	
+Ir a la página del grupo	atypegua toguépe jeike	
+No permitir fotos en el grupo	ko atýpe ndikatúi ojehupi ta'anga	
+No permitir videos en el grupo	ko atýpe ndikatúi ojehupi ta'angamýi	
+Eliminando datos multimeda del grupo...	marandu ñongatupy atypegua ojehekýi	
+Notificación de nuevo miembro	ijaty pyahúva mombe'u	
+Notificar al creador del grupo cuando nuevos miembros se unan	mombe'u aty moheñoihárape oĩ jave ijaty pyahúva	
+Notificar solicitud a unirse	mombe'u oĩ vove jerure máva ijatyséva	
+Notificar al creador del grupo cuando haya una nueva solicitud a unirse (Para los grupos privados)	mombe'u aty moheñoihárape oĩ jave jerure ijaty hağua	
+Notificar los mensajes creados en el muro	mombe'u marandu heñóiva tekorendápe (muro-pe)	
+Permitir el envío de notificaciones por email a los miembros del grupo cada vez que un nuevo mensaje sea hecho en el muro	marandu email rupi atýpe opaite jehai ojejapóva tekorendápe (muro-pe)	
+Opciones del grupo	aty ikatúva oiporavo	
+Opciones del adminitrador del grupo	aty mohendakuaahára ikatúva oiporavo	
+No tienes actualmente invitaciones pendientes	ndereguerekói pepirũ ko'áğa	
+Has aceptado la invitación para unirte al grupo	emoneĩ pepirũ eike hağua atýpe	
+Has declinado la invitación para unirte al grupo	emboyke pepirũ eike hağua atýpe	
+Tienes invitación a grupo	reguereko pepirũ atýpe ğuarã	
+Tienes invitaciones a grupos	reguereko pepirũ atykuérape ğuarã	
+Crear	moheñói	
+Invitaciones pendientes	pepirũnguéra oha'arõva	
+grupos	atykuéra	
+te ha invitado a que te unas a este grupo	pepirũ reike hağua ko atýpe	
+%1 de tus amigos es miembro de este grupo	%1 ne irũnguéragui oĩ ko atýpe	
+%1 de tus amigos son miembros de este grupo	% 1 ne irũnguéragui oĩmba ko atýpe	
+Eventos del grupo	aty rembiapokuéra	
+El número de eventos del grupo serán mostrados en la página principal del grupo	aty rembiapokuéra hetakuépe oñemyasãita aty rogue tenonderãme	
+Crear evento	tembiapo moheñói	
+Expulsar	ñemosẽ	
+Quitar expulsión	ñemosẽ jeipe'a	
+El miembro ha sido expulsado en este grupo	atygua oñemosẽ ko atýpe	
+El miembro esta ahora autorizado para unirse a este grupo	ñemoneĩ oikesévape ijaty hağua ko atýpe	
+Tu estás expulsado en este grupo	reñemosẽ ko atýgui	
+Lista de expulsados	oñemosẽva terarysýi	
+Las opciones de grupo sólo son visibles para los miembros autorizados	aty ikatúva oiporavo ohechakuaa umi oñemoneĩva	
+No tienes permiso para poder agregar videos en este grupo	ndikatúi ehupi ta'angamýi ko atýpe	
+Todos los miembros	opavave atypegua	
+Últimas fuentes de respuestas en debates	oñeñongatúva mbohovairã rehegua	
+Ver respuestas al debate %1	ehecha ñombohovairã mbohovaikuéra	
+Categorías de grupos	atykuéra mohenda	
+Respuestas de %1	mbohovái %1-gui	
+Estás seguro de querer eliminar a %1$s de este grupo?	añetehápepa rehekyise %1 ko atýgui?	
+Búsqueda avanzada	hetáichagua marandu jeheka	
+Enviar correo a miembros	mail ñemondo atyguápe	
+Editar debate	mbohovairã mboheko	
+Debates actualizados	mbohovairãnguéra ñembopyahu	
+Última respuesta por %1	mbohovái paha %1-re	
+Últimos Debates	mbohovairã ipahapegua	
+Necesitas ser un miembro activo de este grupo antes de poder dejar una respuesta	eñembyatyraẽva'erã embohovake hağua	
+Ya has invitado a todos tus amigos o no has invitado a ninguno aún	eipepirũma opavave ne angirũme térãpa ne'irã	
+Título	téra	
+Descripción	ta'angahai	
+Obtener respuestas antiguas	ejuhu mbohovái ymavegua	
+Este grupo ya es un destacado	ko aty iporavopyréma	
+Privacidad del grupo	aty mba'énteva	
+Verificar solicitud de invitaciones del grupo	jerure pepirũ aty rehegua hechajey	
+Invitacion al grupo	pepirũ atýpe	
+Limitaciones del grupo alcanzadas	aty jepyso ohupytýva	
+Bienvenido nuevamente, %1	tereğuahẽporãite jey, %1	
+Editar perfil	tekorenda ñemboheko	
+Cambiar imagen del perfil	tekorenda ra'anga moambue	
+Privacidad	máva mba'énte	
+Agregar un amigo	angirũ mbojoaju	
+Ver su bandeja de entrada	ehecha marandu oğuahẽva	
+Regresar al perfil	ejevy tekorendápe	
+Nunca ha accedido	Araka'eve ndoikéi	
+Alias del usuario actualizado	puruhára terajo'a ipyahúva	
+Amigos	angirũnguéra	
+Agregar un nuevo amigo	ejoapy angirũ pyahu	
+Mostrar todo	ehechaukapa	
+Buscar	heka	
+Solicitudes enviadas	jerure oñemondóva	
+Pendientes por aprobación	oha'arõva ñemoneĩ	
+Quién está conectado	máva ojoajúva koáğa	
+Mis Aplicaciones	che tembipurukuéra	
+Explorar aplicaciones	tembipurukuéra reka	
+Configuración	mbohekorenda	
+Guardar	ñongatu	
+Agregar aplicaciones	ejoapy tembipurukuéra	
+Eliminar aplicaciones	ehekýi tembipurukuéra	
+Agregar	embojoapy	
+Agregado	ojoapýva	
+Eliminar	hekýi	
+Acerca de	mba'eregua	
+Aplicación	tembipuru	
+Fecha de creado	heñoiha ára	
+Versión	oñembopyahúva	
+Autor	apohára	
+Acciones	ojejapóva	
+Configuraciones	mbohekorenda	
+Aplicación eliminada	tembipuru jehekýi	
+Aplicación agregada	tembipuru ojoapýva	
+Nada que configurar	mba'eve oñemboheko hağua	
+Boletines de %1	marandu %1 rehegua	
+Debates de %1	mbohovairã %1 rehegua	
+Bandeja de Entrada	marandu oğuahẽva renda	
+Escribir	hai	
+Enviados	oñemondóva	
+Conectado	ojoajúva	
+Desconectado	ojoaju'ỹva	
+Amigos nuevos	angirũnguéra ipyahúva	
+Nuevos	pyahukuéra	
+Activo	oĩ py'ỹiva	
+Popular	ojehechavéva, ojeikuaavéva	
+Ordenar por	mohenda	
+Mostrar todo	hechaukapa	
+Cancelar	hekýi	
+Si	heẽ, néi	
+No	nahániri, ani	
+Ok	oĩ porã	
+Agregar Comentario	embojoapy oje'éva	
+Estas seguro de querer eliminar este comentario en el muro	añetehápepa rehekyise oje'éva	
+Eliminar comentario	oje'éva jehekýi	
+Por favor agregar un comentario al muro	ehaína ereséva tekorendápe (muro-pe)	
+Por favor inicie sesión	emoñepyrũ tembiapo	
+Por favor regístrese para ver esta sección	emoĩ nde réra ehecha hağua ko pehẽ	
+Ayer	kuehe	
+1 día antes	1 ára mboyve	
+1 semana antes	1 arapokõindy mboyve	
+1 semanas antes	arapokõindykuéra mboyve	
+1 mes antes	1 jasy mboyve	
+meses antes	jasykuéra mboyve	
+un momento antes	angete mboyve	
+1 hora	1 aravo	
+1 minuto	1 aravo'i	
+menos de un minuto	aravo'i mboyve	
+antes	mboyve	
+por	rehegua	
+Mensajes del muro eliminados	marandu jehekýi tekorendágui	
+Para ver el grupo, debe seguir el enlace de abajo	ehecha hağua aty, reikeva'erã tenda (enlace) oĩva iguýpe	
+1 se ha unido a su grupo	peteĩve oñembyaty nde atýpe	
+El grupo ha creado un nuevo boletín	aty omoheñói peteĩ marandu pyahu	
+Ya has solicitado al usaurio que sea tu migo	ejeruréma ñemoangirũ	
+Fallo al eliminar la id de soliciutd de amistad	jejavy ehekýivo ñemoangirũ jerure	
+Sugerencias de amistad	ikatúvare eñemoangirũ	
+Agregar debate	mbohovairã mbojoapy	
+Buscar	heka	
+Mis amigos	che angirũnguéra	
+Amigos actualmente conectados	angirũ ko'áğa ojoajúva	
+Fuentes de noticias	marandu moreñoiha	
+Examinar	hesa'ỹijo	
+Solicitudes de amistad enviadas: Esperando por aprobación	angirũ jerure oñemondóva: Oha'arõva ñemoneĩ	
+Invitar amigos	angirũ pepirũ	
+Puedes invitar a tus amigos a esta comunidad. Sólo agrega las direcciones de correo de ellos y nosotros le enviaremos una invitación a este sitio por ti	ikatu reipepirũ neangirũnguérape. Ehaínte iñe'ẽvevekuéra ha ore romondóta pepirũ oñembyaty hağua ko'ápe.	
+Direcciones de correo separadas por una coma	terañeminguéra oñemopa'ũva peteĩ kytaguáire (coma-re)	
+De	rehegua	
+A	pe	
+Mensaje	ñe'ẽmondo	
+Opcional	ikatúva reipuru	
+Enviar invitación	pepirũ mondo	
+te ha invitado a unirte a	ne pepirũ eñembyaty hağua	
+El correo ya es un miembro activo de esta comunidad	ñe'ẽveve ha'éma ko atypegua	
+Dirección de correo no válida: Por favor asegúrese que ha ingresado una dirección de correo correcta	ñe'ẽveve ndaha'éi: Ehechamína rehaiporãpa ñe'ẽveve.	
+Para suscribirte has click en Territorio Paraguayo o Puedes ver el perfil de quien te invita en	eheraguapy hağua ehesakutu Territorio Paraguayo térã ikatu ehecha ne pepirũva tekokuaa	
+invitación enviada	pepirũ oñemondóva	
+es ahora su amigo	ha'éma ko'áğa iñangirũ	
+Esperando por tu aprobación	oha'arõva emoneĩ	
+Nombre	téra	
+correo electronico	ñe'ẽveve	
+Aprobar	moneĩ	
+Rechazar	mbotove	
+Bienvenido	tereğuahẽporã	
+Actividades Recientes	tembiapo angetegua	
+Ver todos los miembros	ehecha opavave atypegua	
+Estado actualizado	tekoreko pyahu	
+Hola	maitei, mba'éichapa	
+Buscar resultados	eheka rejuhuséva	
+Buscar Grupos	atykuéra reka	
+Total de grupo encontrado	atykuéra jejuhúva	
+Hola ha creado un nuevo tema en el muro del grupo	maitei (mba'éichapa), emoheñói ñe'ẽrã pyahu aty tekorendápe (muro-pe)	
+Puedes leer el mensaje en	ikatu emoñe'ẽ ñe'ẽveve ko'ápe	
+Que tengas un buen día	terehasaporã ko ára	
+A continuación se muestra el mensaje enviado por	rehecháta marandu oğuahẽva omondóva…	
+Hola, te agregó como su amigo	mba'éichapa, nembojoapy iñangirũramo…	
+Todavía necesitas aprobar esta solicitud. Para agregar como tu amigo, ve a la página de solicitudes de amistad pendiente en el enlace a continuación: Que tengas un buen día	tekotevẽ gueteri emoneĩ. Embojoapy hağua eike angirũ oha'arõva roguépe oĩva ko'ápe: terehasaporã ko ára.	
+Hola. El grupo ha creado un nuevo boletín. Puedes leer el mensaje aquí. Que tengas un buen día	maitei. Aty omoheñói marandu pyahu. Ikatu remoñe'ẽ ko'ápe. Terehasa porã ko árape.	
+Hola, recientemente ha publicado una respuesta en el debate. Para dar una respuesta, debes visitar el sitio en. Que tengas un buen día	maitei. Angete oñemyasãi mbohovái pyahu. Embohovake hağua, eikeva'erã ko tenda ko'ápe. terehasa porã ko árape	
+A continuación se muestra un fragmento del debate creado	ko'áğa ojechauka mbohovairã pehẽ heñóiva	
+Hola, te ha invitado a unirte a un grupo. A continuación se muestra el mensaje enviado por	mba'éichapa, ñeipepirũ eñembyaty hağua. Ko'áğa ojechauka ñe'ẽmondo	
+Hola. Un usuario quiere compartir un enlace contigo.Puedes ver el enlace en	Maitei. Puruhára ohechaukase ndéve peteĩ mbojoajuha (enlace)	
+Hola, ha creado nuevo evento. Tendrás que moderar dicho evento ya que la moderación de eventos ha sido habilitada por los administradores. Para acceder al area de administración de eventos, debes acceder a esta desde. Que tengas un buen día	Maitei, emoheñói tembiapo pyahu. Mohendakuaaharakuéra omoneĩ nde remohendakuaa hağua mbohovake. Eike hağua upépe ehesakutu ko'ápe. Terehasaporã ko árape.	
+Hola, ha aprobado tu petición de amistad. Ahora eres amigo de (*). Puedes ver el perfil de aquí. Que tengas un buen día	Maitei, oñemoneĩ ne angirũ jerure. Ko'áğa (*) angirũma. ikatu rehecha tekorenda ko'ápe. Terehasaporã ko árape.	
+Título. Mensaje. Puedes ver el grupo en	téra. Ñe'ẽmondo. Ikatu rehecha aty ko'ápe	
+Hola. Tu grupo ha sido creado recientemente y ya está publicado. Puedes iniciar la interacción dentro del grupo accediendo al enlace siguiente	Maitei, nde aty ipyahu ha oñemyasãima. Ikatúma reipuru atýpe upevarã eike ko mbojoajúpe (enlace-pe)	
+te ha enviado un nuevo mensaje.También puedes leer el nuevo mensaje aquí 	reguereko ñe'ẽmondo pyahu. Ikatu emoñe'ẽ ko'ápe	
+Hola,  te ha etiquetado en una foto. Para ver esta foto, por favor has clic en el enlace a continuación	maitei, oñemoĩ nde réra peteĩ ta'angáre. Ehecha hağua, ehesakutu/eike ko mbojoajúpe	
+Hola,  te ha dejado un mensaje en el muro	maitei, oheja ndéve ñe'ẽmondo myasãirã rendápe	
+Un artículo reportado han llegado a su fecha límite y la acción predeterminada ha sido ejecutada. La ubicación del artículo reportado se pueden encontrar a continuación	peteĩ marandu árağuahẽma ha ojejapóma oje'ehaguéicha. Upe marandu ikatu rejuhu ko'ápe	
+Mensaje	ñe'ẽmondo	
+Para ver el evento, acceder a la URL en la siguiente ubicación	ehecha hağua tembiapo eike URL ko'ápe	
+Para ver el grupo accede a su URL en la siguiente ubicación	ehecha hağua aty eike URL ko'ápe	
+Mis mensajes	che ñe'ẽmondo	
+Enviar mensajes	eñe'ẽmondo	
+Regresar al Perfil	ejevy tekorendápe	
+Escribir mensaje	ehai ñe'ẽmondo	
+Responder mensaje	embohovái ñe'ẽmondo	
+Actualmente no tienes ningún mensaje	ko'áğa ndereguerekói ñe'ẽmondo	
+No puedes enviarte mensajes tu mismo	ndikatúi eñe'ẽmondo ndejuperã	
+Sin asunto	mba'eregua'ỹre	
+Quién eres tu para enviar esto	mávapa nde remondo hağua ko mba'e	
+Escribir respuesta	ehai mbohovái	
+Por favor no envíes un mensaje vacío a tu amigo	anína emondo marandu'ỹre ne angirũme	
+Estás seguro de haber escrito correctamente	añetehápepa rehai porã	
+Guardar	ñongatu	
+Lista de Amigos	angirũnguéra rerarysýi	
+Marcar como leído	emoĩ oñemoñe'ẽva'ekue apytépe	
+Estás seguro de querer eliminar el mensaje seleccionado? Esta acción es irreversible	añetehápepa ehekyise  ko	
+ñe'ẽmondo	
+Eliminar esta conversación	ehekýi ko ñomongeta	
+Agregar respuesta	embojoapy mbohovái	
+Conectarse con este usuario	ejoaju ko puruhára ndive	
+Visitas al perfil	oikéva tekorendápe	
+Última conexión	joaju paha	
+Karma	karma	
+Perfil no válido	ndaha'éi tekorenda	
+Ir al perfil	tekorendápe jeike	
+Acerca de mi	che rehegua	
+Correo y notificaciones	ñe'ẽveve ha marandukuéra	
+Configura quienes pueden ver tu información	mávapa ikatu ohecha ne marandu	
+Solo yo	chénte	
+Recibir correos del sistema	ñe'ẽveve sistema rehegua	
+Cargar nueva imagen del perfil	ta'anga pyahu jehupi tekorendápe ğuarã	
+Cargar nuevo avatar. Imagenes grandes serán redimensionadas automáticamente	avatar pyahu jehupi. Ta'anga	
+Tuicha ijehegui oñemomichĩta tekotevẽháicha.	
+Automáticamente generado. (con un ancho máximum de 160px)	ijehegui ojejapo. (160px pysokue ikatúva)	
+Imagen miniatura	ta'anga michĩetéva	
+Imagen grande	ta'anga tuicháva	
+Su cuenta ha sido creada. Por favor  ingrese con su correo electronico o usuario y contraseña	oñemoheñói nde	
+terañemi. Eike nde ñe'ẽveve ha nde terañemi rehe	
+Su cuenta ha sido creada pero el perfil no ha sido actualizado. Por favor ingrese nuevamente con su nombre de	
+usuario y contraseña y configure su perfil nuevamente	terañemi oĩma ha nde tekorenda noñembopyahúi.	
+Eike jeýna nde terañemi ndive ha emboheko pyahu nde tekorenda	
+Su cuenta ha sido creada y un enlace de activación ha sido enviado a su email. Active su cuenta haciendo click	
+en el enlace provisto y podrá utilizar su nueva cuenta	terañemi oĩma ha peteĩ joaju oñemondo nde	
+ñe'ẽvevépe	
+Los campos marcados con un asterisco (*) son obligatorios	umi pa'ũ inandíva katuete remyanyhẽva'erã	
+Información del usuario	marandu puruhára rehegua	
+Términos y Condiciones	mba'éicha ha tekotevẽva	
+Debes aceptar los términos y condiciones antes de continuar	emoneĩva'erã mba'éicha ha tekotevẽva eipuru	
+mboyve	
+Gracias por registrarse en nuestro sitio. Su cuenta ha sido creada. Ingrese con su nombre de usuario y	
+contraseña elegida	aguyje reimére orendive ko tendápe. Nde terañemi oĩma. Eike nde réra ha rerañemi	
+eiporavóva ndive	
+Nombre completo	opaite nde réra	
+Correo electronico	ñe'ẽveve	
+Repita su correo electronico	ehai jey nde ñe'ẽveve	
+Contraseña	terañemi	
+Verificar contraseña	oĩporãpa nde rerañemi	
+He leído y acepto los	amoñe'ẽ ha amoneĩ	
+Siguiente	riregua	
+Registrar	mborérañemi	
+Regresar al inicio	ejevy ñepyrũhápe	
+Usuario registrado	puruhára rérañemi	
+El campo	tenda nandi oñemyanyhẽva	
+está vacío	inandi	
+Un nuevo usuario se ha registrado en. Este email contiene sus detalles: Nombre: E-mail: Usuario: Por favor no	
+responda a este mensaje. El mensaje se generó automáticamente solamente con propósitos informativos	
+puruhára pyahu omoĩma herañemi. Ko ñe'ẽveve oguereko hesegua: Téra: Ñe'ẽveve: Puruhára: Ani	
+embohovake ko ñe'ẽmondo. Ñe'ẽmondo oho ijehegui omomarandu hağua	
+YaEstás registrado como usuario	oĩma nde rerañemi puruhára ramo	
+está vacío o contiene un valor no válido	inandi térã oguereko mba'e ojepuru'ỹva	
+Has ingresado una dirección de correo no válida	ehai peteĩ ñe'ẽveve ndaha'éiva	
+Has ingresado una fecha no válida	ehai arange ndaha'éiva	
+La contraseña es demasiado corta. Por favor ingresa una contraseña con un mínimo de 6 caracteres	terañemi imbykyeterei. Ehai terañemi oguerekóva 6 tai	
+Su Contraseña y el Verificar Contraseña no coinciden	terañemi ha jehechajey ndojojoguái	
+El correo ya existe. Por favor elíja una dirección de correo diferente	ko ñe'ẽveve oĩma. Eiporavóna ambue	
+El nombre de usuario ya está utilizado. Por favor elija otro nombre de usuario	puruhára réra oĩma. Eiporavóna ambue téra puruhára rehegua	
+Buscar personas	eheka angirũrã	
+(*) ha eliminado la aplicación	(*) ohekýi tembipuru	
+ha(n) agregado la aplicación	ha'e ombojoapy tembipuru	
+son ahora amigos	… ko'áğa oñoangirũ	
+ingresó al grupo	oñembyaty	
+(*) ha actualizado el grupo	(*) ombopyahu aty	
+(*) ha agregado un nuevo boletín	(*) ombojoapy marandu pyahu	
+(*) ha creado el nuevo grupo	(*) omoheñói aty pyahu	
+(*) ha cargado un nuevo avatar para el grupo	(*) ohupi avatar pyahu atýpe ğuarã	
+Amigos y Yo	angirũnguéra ha che	
+Registrése ahora para acceder	ehai terañemi ko'áğa	
+Suscribete, ¡Es Gratis!	eheraguapy. ¡ndojehepyme'ẽi!	
+Acceso a la Red Social Paraguaya	eike Red Social Paraguaya-pe	
+Recordarme	momandu'a	
+Acceder	jeike	
+Contraseña perdida	terañemi kañy	
+Nombre de usuario perdido	puruhára okañýva réra	
+Cargar	hupi	
+Resultado(s)	ojejuhúva	
+Lo siento, soy incapaz de localizar a la persona que busca. Intente usando la dirección de correo	ñyrõ, ndikatúi ajuhu máva rehekáva. Eñeha'ãna eipuruhápe ñe'ẽveve	
+Debes iniciar sesión	emoĩva'erã terañemi eñepyrũ mboyve	
+Conéctate y expande tu red	eñembojoaju ha eikuaauka	
+Cerrar	mboty-emboty	
+No tienes permitido acceder a esta sección	ndikatúi reike ko'ápe	
+Debes seleccionar una categoría	eiporavo peteĩ ñemohenda	
+No tienes permitido eliminar un comentario creado en el muro	ndikatúi ehekýi ojehaíva myasãirendápe (muro-pe)	
+No se encuentran los datos creados	ndojejuhúi marandu heñóiva	
+El tipo de archivo no es soportado por el sistema	marandu ñongatupy ipohýi ko sistema-pe ğuarã	
+Se produjo un error mientras se intentaba mover la imagen seleccionada	oiko jejavy ta'anga ñemohendakuévo	
+Todos los archivos de imágenes	opaite ta'angakuéra ñongatupy	
+Cargar cola	emoĩ ñeha'arõme	
+Examinar	ehecha	
+El mensajes de correo no puede estar vacío	ñe'ẽmondo ñe'ẽveve rehegua ndikatúi inandi	
+o puedes añadirte tu mismo como amigo	térã ikatu ndevoi eñemoirũ	
+No puedes añadir amigos dos veces	ndikatúi embojoapy irũ mokõi jey	
+Amigo eliminado	angirũ ojehekýiva	
+Se produjo un error al quitar a tu amigo	oiko javy enohẽ jave ne angirũme	
+La solicitud de amistad ha sido cancelado	ñemoangirũ jerure oñembotove	
+Error al eliminar solicitud de amistad	javy oñemboykehápe ñemoangirũ jerure	
+Solicitud de amistad rechazada correctamente	ñemoangirũ jerure oñemboyke hendaitépe	
+Esta no es su solicitud	kóva ndaha'éi  nde jerure	
+recibirá su solicitud. Cuando se aprueba esta solicitud, se convertirán en amigos	oğuahẽta jerure ndéve. Oñemoneĩvo, peñemoangirũma	
+Estas seguro de querer cancelar esta respuesta	añetehápepa embotovese ko mbohovái	
+Agregar Amigo	angirũ mbojoapy	
+Eliminar mensaje	ñe'ẽmondo jehekýi	
+Fallo al eliminar el mensaje	oiko javy ñe'ẽmondo jehekýipe	
+No estás autorizado para responder un mensaje que no le pertenece	ndikatúi embohovake ñe'ẽmondo ndaha'éiva nemba'e	
+Por favor, escriba algo. No se puede enviar una respuesta vacía	Ehai. Ndikatúi ñe'ẽmondo inandi	
+No podemos encontrar el destinatario del mensaje	ndojejuhúi máva remondosévape	
+Esta foto ahora es la foto predeterminada del álbum	ko ta'anga ko'áğa ha'e pe ojeporavóva'ekue ta'anga'aty apytépe	
+Estás seguro que quieres eliminar el álbum. Esto también removerá las fotos dentro del album	añetehápepa ehekyise ko ta'anga'aty. Omomyita avei ambue ta'angápe.	
+Id de foto no válida	ID ndaha'éi ta'anga rehegua	
+Id de álbum no válido o este álbum no te pertenece	ID ndaha'éi ta'anga'aty rehegua térã ko ta'anga'aty ndaha'éi nemba'e	
+Álbum  eliminado	ta'anga'aty ojehekýi	
+La funcionalidad multimedia ha sido deshabilitada por el administrador del sitio	mohendakuaahára ko tendapegua onohẽ multimedia jepuru	
+Por favor seleccione una imagen para cargarla. Actualmente, sólo son soportadas las extensiones JPEG, PNG o	
+GIF, para ser cargadas y utilizadas como avatares	eiporavo peteĩ ta'anga ehupi hağua. Ikatu JPGE, PNG O GIF, ojehupi ha ojepuru hağua avatar-ramo	
+Estás seguro de querer eliminar este amigo?	añetehápepa ehekyise ko angirũme?	
+Eliminar amigo	angirũ jehekýi	
+Agregar a … como su amigo? Por favor agrega alguna introducción abajo	embojoapy…pe angirũramo. Ehaína oimeraẽ mba'e iguýpe	
+Disculpa, pero no tienes permitido ver esta página	ñyrõ, ndikatúi ehecha ko togue	
+Este sitio no posee ninguna aplicación instalada aún	ko tenda ndorekói tembiporu gueteri	
+Reportar esto	emombe'u ko mba'e	
+Reportar mensaje	emombe'u ñe'ẽmondo	
+Reportes predefinidos	mombe'u poravopyre	
+Seleccione un reporte predefinido	eiporavo mombe'u poravopyre	
+Gracias por enviar tu reporte. Un administrador del sitio revisará el mismo dentro de poco	aguyje emondóre mombe'u. Mohendakuaahára ohecháta ağaitema	
+La cuenta del usuario ha sido bloqueada	puruhára rerañemi oñemboty	
+Foto eliminada	ta'anga jehekýi	
+Lo siento, pero no puedo encontrar el perfil solicitado o esta cuenta ya no está activa. Por favor contacte al administrador del sitio si cree que esto pueda ser un error	ñyrõ, ndikatúi ojejuhu upe tekorenda rehekáva térã herañemi ndaha'evéima. Eheka ko tenda mohendakuaahárape ndaha'éirõ jejavy.	
+Nombre de la aplicación	tembipuru réra	
+Autor	apohára	
+Cualquiera	oimeraẽ	
+Cualquiera puede ver tu aplicación	oimeraẽ ikatu ohecha ko tembipuru	
+Sólo tu puedes ver esta aplicación	ndénte rehechakuaa ko tembipuru	
+Sólo tus amigos pueden ver esta aplicación	ne angirũnguérante ikatu ohecha ko tembipuru	
+Regresar al debate	ejevy mbohovairãme	
+Reportar foto	emombe'u ko ta'anga	
+Reportar grupo	emombe'u ko aty	
+Reportar al usuario	emombe'u puruhára	
+Nueva solicitud de amistad	ñemoangirũ jerure pyahu	
+…quiere ser tu amigo	…oñemoangirũse nendive	
+No se ha podido rechazar la id de solicitud de amistad	ndikatúi oñemboyke ID ñemoangirũ jerure rehegua	
+Invitar amigos	angirũnguéra pepirũ	
+Seleccionar amigos	angirũnguéra poravo	
+Mensaje de invitación	ñe'ẽmondo pepirũ rehegua	
+La opción de registro ha sido desactivada en este sitio	terañemi poravo rehegua oñembogue ko tendágui	
+Fallo en el registro. Falta un objeto de usuario	terañemi javy. Peteĩ mba'e puruhára rehegua noĩmbái	
+Necesitas seleccionar por lo menos 1 amigo	tekotevẽ eiporavo 1 angirũ jepe	
+Estas seguro de querer establecer esta foto como la foto predeterminada para este álbum?	añetehápepa emoĩse ko ta'anga poravopyre ta'anga'atýpe ğuarã	
+Edit. Detalles	emboheko mba'emimi	
+Tus detalles	nemba'emimi	
+… y tu ahora son amigos	… ha nde ko'áğa oñoangirũma	
+Cerrar	mboty	
+En espera...	ha'arõme	
+Ha intentado subir demasiados archivos	hetaiterei mba'e ñongatupy  rehupise	
+Has alcanzado el límite establecido de carga	apevéntema ikatu rehupi	
+Archivo muy grande	tuichaiterei mba'e ñongatupy	
+Agregar aplicación	tembipuru mbojoapy	
+Acerca de	rehegua	
+Error de permiso. No puedes agregar una aplicación aún	javy jeike hağua. Ndikatúi embojoapy tembipuru gueteri	
+Perfil guardado	tekorenda ñongatúva	
+Detectados datos de Fecha/Hora no válidos	arange ha aravo ndaha'éi	
+La fecha / hora de finalización es anterior a la fecha / hora de inicio	arange ha aravo ñesẽ rehegua imboyve arange ha aravo jeike reheguágui	
+No se puede cargar el usuario	ndikatúi ojehupi puruhára	
+Area solo para miembros	atypegua rendánte	
+Acceso prohibido	ndikatúi ojeike	
+Fuente de noticias de	marandu renda	
+Últimas actividades en torno a. Fecha de última visita	tembiapo pahague rehegua. Arange jeike paha rehegua	
+Ver que no se encuentra	jehecha ndaipóriha	
+Error	javy	
+Cargando...	ojehupi	
+Completado	oĩmba	
+Error de carga	javy ojehupívo	
+Carga fallida	javy ojehupivo	
+No se pueden cargar archivos de cero bytes	ndikatúi ojehupi mba'e ñongatupýva cero bytes rehegua	
+(*) ya ha solicitado añadirte como amigo. Por favor, compruebe las solicitudes pendientes de aprobación	(*) ojeruréma nembojoapy hağua angirũramo. Ehechami mba'e jerure oha'arõva ñemoneĩ	
+(*) ha cargado un nuevo avatar	(*) ohupi peteĩ avatar pyahu	
+Correcto	oĩ porã	
+Fallo	javy	
+Ocultar	ñomi	
+Saltar	po	
+Aun no son amigos "puedes enviarle una invitación"	ne'írã oñoangirũ “ikatu emondo peipirũ”	
+No hay miembros activos aún	ndaipóri atygua ojoajúva gueteri	
+Debate no válido	ñombohovái ndaha'éi	
+Por favor agregar un mensaje	embojoapýna peteĩ ñe'ẽmondo	
+Tus preferencias se han guardado	umi ho'a porãva nédve oñeñongatu	
+Error en registro	terañemi ehaikuévo oiko javy	
+Enviando correos...	ñe'ẽveve oñemondo hína	
+Amigos conectados	irũnguéra ojoajúva	
+Amigo agregado	angirũ ojoapýva	
+Se requiere la Id de la aplicación	oñeikotevẽ ID tembiporu rehegua	
+Puntos	kytakuéra	
+Actividades	tembiapoita	
+Disculpa pero no hemos podido validar tu cuenta	nyrõ ndikatúi oñemboaje nde terañemi	
+Correo actualizado	ñe'ẽveve oñembopyahu	
+Continuar	mbojoapy	
+Has cerrado tu sesión corectamente	emboty tenda jepuru hekopete	
+Felicitaciones. Has sido autenticado correctamente por Facebook	vy'apavẽ. Facebook  nemoañete	
+Nos hemos percatado de que tu dirección de correo electrónico no ha sido actualizada. Si deseas seguir	
+recibiendo mensajes de notificación de parte de nosotros, necesitamos que actualices tu información de correo	
+electrónico	rohechakuaa ne ñe'ẽveve noñembopyahúi. Reipotárõ oğuahẽ ndéve ore ñe'ẽmondo, embopyahuva'erã nde ñe'ẽveve rehegua marandu	
+Contiene	oguereko	
+Igual a (*)	(*)icha	
+No Igual a	ndaha'éi amóvaicha, pévaicha	
+Inferior o igual a	michĩve térã ojogua	
+Mayor o igual a	tuichave térã ojogua	
+El plugin flash es necesario para subir fotos	plugin flash tekotevẽ ta'anga rehupi hağua	
+Formato de fecha dd/mm/yyyy	arange jerekorã  ára/jasy/ary	
+Tu cuenta ya está asociada al inicio de sesión con Facebook	nde terañemi oñembojojáma Facebook ndive	
+Al asociar con su cuenta de facebook con el componente JomSocial, ya no es necesario para acceder al sitio	
+utilizando el módulo de acceso de miembros. Todo lo que necesitas hacer es hacer clic en el icono / imagen  y	
+automáticamente iniciaras sesión con nostros	nde terañemi oñembojoajúvo Facebook JomSocial ndive, natekotevẽi reipuru atygua jeike. Ehesakutúnteva'erã ta'angápe ha eñepyrũma reipuru ko tenda ore ndive	
+Inicio de sesión asociado a Facebook	tembiapo ñepyrũ oñembojoaju Facebook ndive	
+Amigos mutuos	oñoangirũ	
+Asociar su ingreso con facebook	jeike ñembojoaju Facebook ndive	
+Cuenta de usuario bloqueada	terañemi oñemboty/oñemboyke	
+Cuenta de usuario desbloqueada	terañemi ikatu ojepuru	
+No está autorizado a realizar las tareas de administración	ndikatúi rejapo mohendakuaahára rembiapo	
+Lo sentimos, has superado el límite diario de mensajes	ñyrõ, ñe'ẽmondo hetave ikatúvagui peteĩ árape ğuarã	
+No hay fotos disponibles para ver	ndaipóri ta'anga ojehecha hağua	
+Agregar	mbojoapy	
+Error al obtener clave de autenticación! Por favor, inténtelo de nuevo más tarde	javy terañemi mboaje reheguápe! Ağave ejapo jey	
+Horario de verano	aravo arahaku rehegua	
+Ocultar	ñomi	
+Criterios	jesarekorã	
+Agregar criterio	jesarekorã mbojoapy	
+Coincidir todos los criterios	jesarekorã mbojogua	
+Coincidir cualquier criterio	oimeraẽ jesarekorã mbojogua	
+Tal vez debería Identificarse en el sitio. Para unirse a la diversión, solo Registrese para ser un miembro:	
+Oiméne tekotevẽ ejeikuaauka ko'ápe. Ejoaju hağua, ehaínte nde rerañemi eñemboaty hağua	
+Por favor, espere por lo menos 1segundos antes de enviar otro mensaje	Eha'arõna 1 aravo'ive  eñe'ẽmondo jey hağua	
+Error. El archivo ya existe	javy. Mba'e ñongatupy oĩma	
+Error. No se puede cargar el archivo	javy. Ndikatúi ojehupi mb'e ñongatupy	
+DD	ára	
+YYYY	ary	
+HH	aravo	
+MM	aravo'i	
+SS	aravo'ive	
+Lo sentimos, pero a los administradores no se les permite asociarse con la cuenta de Facebook	ñyrõ, mohendakuaahára ndikatúi ojoaju Facebook ndive	
+Sesión expirada. Por favor trate de nuevo	internet oso. Eñeha'ã eike jey hağua	
+Por favor seleccione una acción	eiporavo peteĩ tembiapo	
+Limpiar	mopotĩ	
+Ir a la pagina de acceso	jevy togue jeikeha	
+Info	marandu	
+Tu no tienes solicitudes pendientes	ndererekói ñemoirũ jerure ehecha hağua	
+No hay miembros destacados aún	ndaipóri atygua jehecharamóva gueteri	
+Destacados	jehecharamóva	
+Miembros destacados	atygua jehecharamóva	
+Grupos destacados	atykuéra ojehecharamóva	
+Álbumes destacados	ta'anga'aty jehecharamóva	
+Eliminar destacados	jehecharamóva jehekýi	
+El miembro … ahora es un destacado en la comunidad	atygua… ko'áğa ojehecharamo ko tendápe	
+El grupo … ahora es un destacado en la comunidad	aty…ko'áğa ojehecharamo ko tendápe	
+El álbum … ahora es un destacado en la comunidad	ta'anga'aty…ko'áğa ojehecharamo ko tendápe	
+El usaurio ya es un miembro destacado	puruhára ha'éma atygua jehecharamóva	
+El usuario ha sido eliminado de la lista de destacados	puruhára ojehekýi jehecharamóva apytégui	
+Grupo eliminado de la lista de destacados	aty ojehekýiva jehecharamóva apytégui	
+Álbum de fotos eliminado de la lista de destacados	ta'anga'aty	
+Más	hetave	
+Por favor, introduzca su dirección de correo aquí para que podamos enviarle a usted el enlace de activación	ehai nde ñe'ẽveve ko'ápe romondo hağua ndéve joaju eipuru hağua ko tenda	
+Dirección email  no encontrada en el sistema. Por favor, asegúrese de que ha introducido la dirección de correo	
+Registrada	ñe'ẽveve ndojejuhúi. Ehechajeýna, añetehápepa ehai porã nde ñe'ẽveve	
+Activación de cuentas de usuario ha sido desactivada por el administrador del sitio. El correo de activación no es	
+Necesario	nde terañemi omboty mohendakuaahára ko tendápegua	
+La cuenta de usuario con la dirección de correo ya se ha activado	terañemi puruhára rehegua ha ñe'ẽveve ikatúma ojeipuru	
+Enlace de activación ha sido enviado a la dirección de correo. Por favor, complete la activación de su	
+cuenta haciendo clic en el enlace de su correo electrónico	oñemondo joaju nde ñe'ẽvevépe, emoĩmba nde rerañemi ha ehesakutu joaju ñe'ẽveve reheguápe	
+Hola, Gracias por registrarse en. Usted ha pedido que nosotros volvamos a enviar el enlace de	
+activación para activar su cuenta. Para activar la cuenta, haga click en el siguiente enlace o copie y pegue en su	
+navegador. Después de la activación puede iniciar sesión utilizando su nombre de usuario y contraseña	maitei, aguyje ehai haguére nde rerañemi ko'ápe. Nde rejerure oñemondo jey hağua joaju puru rehegua nde rerañemíme. Reipuru hağua, ehesakutu ko joajúpe térã eiporavo ha emboja nde navegador-pe	
+Mensaje marcado correctamente como no leído	ñe'ẽmondo oĩma oñemoñe'ẽma apytépe	
+Mensaje no encontrado. No se ha podido marcar como no leído	ñe'ẽmondo ndojejuhúi. Ndikatúi ojeiporavo oñemoñe'ẽmavaramo	
+Número de actividades a mostrar en el perfil	tembiapoita ojechaukátava tekorendápe	
+Este usuario ya ha sido etiquetado en la foto	ko puruhára réra oñemoĩma peteĩ ta'angápe	
+Seleccionar una persona	eiporavo peteĩ puruhára	
+Etiquetar esta foto	embohéra ko ta'anga	
+Haga clic en las caras de las persona en la foto para etiquetarlas	ehesakutu oñemoha'angáva rovápe embohéra hağua	
+Etiquetado correcto	embohéra hekoitépe	
+Escriba aquí para filtrar la lista de amigos	ehai ko'ápe ne angirũ rerakuéra	
+Elija un amigo	 eiporavo peteĩ angirũ	
+Usted no tiene amigos etiquetados	ndereguerekói angirũ oñembohérava	
+Ha etiquetado a todos tus amigos en esta foto	embohéra opavave ne angirũnguéra ko ta'angápe	
+información requerida. Verifica que los valores sean correctos	marandu oñeikotevẽva. Ehechami jey oĩporãpa rehaíva	
+Un usuario le gustaría compartir contigo un enlace desde el sitio	puruhára omoirũse nendive joaju peteĩ tenda guive	
+Compartir	moirũ	
+Compartir esto	emoirũ kóva	
+Compartelo a través de	emboja'o… rupi	
+O envíalo por correo a	térã emondo ñe'ẽveve rupi	
+Ingresa las direcciones de correo; separa los distintos destinatarios con comas	ehai ñe'ẽvevekuéra ha emopa'ũ kyguái rehe	
+Mensaje (Opcional)	ñe'ẽmondo (reipotárõ)	
+Compartir esta página	emboja'o ko togue	
+Necesitas seleccionar un amigo	tekotevẽ eiporavo peteĩ angirũ	
+Confirmar	mboaje, moneĩ	
+Seleccionar un país	eiporavo peteĩ tetã	
+El usuario… ha hecho un comentario en tu foto	puruhára…ohai hemiandu ne ra'angápe	
+El usuario… ha hecho un comentario en tu video	puruhára…ohai hemiandu ne ta'angamýipe	
+Estás seguro de querer eliminar tu perfil?	añetehápepa rehekyise nde tekorenda	
+Estas cerca de eliminar tu prfil. Tu información personal, comentarios, fotos, y videos serán borrados	
+permanentemente del sistema. Tu cuenta será completamente eliminada	ehekyipotaite nde tekorenda. Nderehegua, temiandu, tanga ha ta'angamyikuéra oñemboguétama. Nde terañemi ojehekyipaitéta	
+Esta acción es permanente. Este proceso no tiene vuelta atrás	ndaipóri jevy. Ko tapégui ndikatúi rejevy	
+Si, elimine mi perfil	heẽ, ahekýi che rekorenda	
+No, he cambiado de parecer	nahániri, ahániri, ndaipotavéi	
+Guardar	ñongatu	
+Cancelar	mboyke	
+Noticia	marandu	
+Mostrar	ehechauka	
+Correcto	oĩ porã	
+Hola, tú estás actualmente conectado a este sitio utilizando el conector Facebook	maitei, reipuru ko tenda Facebook rupive	
+Si realemente ya tienes una cuenta en este sitio, basta con proporcionar tus datos de acceso y los asociaremos	
+a su cuenta de Facebook con su cuenta existente	reguerekóma nde rerañemi ko tendápe, ehaínteva'erã nde rehegua ha rejoajútama Facebook ndive	
+Por favor ingresa tu nombre	ehai nde réra	
+Cuenta registrada desde Facebook	terañemi Facebook guive	
+Correo no válido	ñe'ẽveve ndaha'éi	
+Nombre de usuario no válido	puruhára réra oĩ vai	
+El nombre de usuario ya existe	puruhára réra oĩma	
+Regresar	jevy	
+El mensaje ha sido enviado a los destinatarios	ñe'ẽmondo ohóma umi oejipotávape ğuarã	
+Salir	ñesẽ	
+Alfabético	achegety rehegua	
+Descarga	mboguejy	
+… ha pedido que sea borrada su cuenta	…ojerure oñembogue hağua herañemi	
+Actualmente soy ...	che ko'áğa	
+Un nuevo usuario	peteĩ puruhára pyahu	
+Un miembro de este sitio	peteĩva ko tendágui	
+Fuentes de Boletines	marandu reñoiha	
+Fuentes de debates	ñombohovairã reñoiha	
+Fuentes de fotos de grupos	aty ra'angakuéra reñoiha	
+Fuentes de videos de grupos	atykuéra ta'angamýi reñoiha	
+Fuentes de eventos de grupos	tembiapo atygua reñoiha	
+Fuentes de usuarios	puruhára reñoiha	
+Fuentes de usuarios y amigos	puruhára ha angirũnguéra reñoiha	
+Compartir sus pensamientos aquí...	eikuaauka neakãreñói ko'ápe…	
+Pasar	ehasa	
+Cancelar peticion de amistad	emboyke ñemoangirũ jerure	
+Habilitar	pe'a	
+Deshabilitar	mboty	
+Cargando mapa...	yvyra'anga ojehupi	
+Todos	opavave	
+Otros	ambuekuéra	
+Bienvenido a la página del grupo. Ingresa ahora para iniciar la participación en el grupo	eğuahẽpora aty roguépe. Eike ko'áğa atýpe	
+Mi lista de bloqueados	che rerarysýi  amboykéva rehegua	
+Bloquear usuario	puruhára mboyke	
+Desbloquear usuario	puruhára mboyke'ỹ	
+Confirmas que deseas bloquear a este usuario? Y también eliminar este usuario como tu amigo	añetehápe emboykese ko puruhárape? Ha avei neirũramo	
+Confirmas que deseas desbloquear a este usuario?	emoañetépa neremboyséiha ko puruhárape?	
+Usted ha sido bloqueado por el dueño	tenda jára ne mboyke	
+Error al bloquear usuario	jejavy puruhára ñemboyképe	
+El usuario ha sido bloqueado	puruhára oñemboyke	
+El usuario ha sido desbloqueado	puruhára noñemboykevéi	
+Ya habías bloqueado a este usuario	emboykéma kuri ko puruhárape	
+No puedes bloquear al administrador de la comunidad	ndikatúi emboyke mohendahára atypegua	
+Si	heẽ	
+No	ahániri. nahániri	
+El plugin zend de jom social está desactivado o no se encuentra instalado	plugin zend jomsocial-pegua ndaipóri	
+Ubicación en el mapa	mohenda yvyra'angápe	
+Ingresar usando Facebook	jeike Facebook jeipuru rupive	
+Ahora tienes una amistad con	ko'áğa eñemoirũma…ndive	
+Entradas de activiades recientes	tembiapoita angete rehegua jeike	
+Entradas de amigos	angirũnguéra rehegua jeike	
+Entradas de mis fotos	che ta'angakuéra rehegua jeike	
+Entradas de todos los videos	opavave ta'angamýi rehegua jeike	
+Entradas de mis videos	che ta'angamyikuéra rehegua jeike	
+Entradas de todos los eventos	opavave tembiapoita rehegua jeike	
+Y	ha	
+Aquí se permiten etiquetas simple de tipo HTML	ko'ápe ikatu embohéra HTML rehegua	
+Gracias por registrarse. Los detalles de su cuenta son los siguientes	aguyje ehai haguére nde rerañemi. Nde rerañemi rehegua ha'e ko'ãva	
+Ahora puede acceder a utilizando su nombre de usuario y contraseña	ko'áğa ikatu reike reipurukuévo nde réra puruhára ha nde rerañemi	
+Actualizar imagen miniatura	ta'angami michĩva embopyahu	
+Haga clic y arrastre el ratón en el avatar para utilizar la herramienta de recorte	ehesakutu ha embosyryry ratón avatar ári eipuru hağua tembipuru ñeikytĩ rehegua	
+Guardar imagen miniatura	ta'anga michĩva ñongatu	
+… asistirá a un evento del grupo	…ohóta peteĩ tembiapo atyguávape	
+Enviar correo electrónico a los miembros	ñe'ẽveve mondo atyguápe	
+Cambiar Url personal	emoambue nde URL	
+Alias del usuario actualizado	puruhára rerajo'a	
+Lista de miembros creada correctamente	atygua rerarysýi heñóiva hekoitépe	
+El título de la lista de miembros no puede dejarse vacío	atygua rerarysýi ndikatúi opyta nandi	
+La descripción de la lista de miembros no puede dejarse vacía	atygua rerarysýi ra'angahai ndikatúi opyta nandi	
+Seleccionar menú	eiporavo tembiaporã	
+Me gusta	ho'a porã chéve, che py'ara'ã	
+No me gusta esto	ndo'a porãi chéve ko mba'e	
+Ya has dicho que no te gusta esto	eréma ndo'a porãiha ndéve ko mba'e	
+Seleccionado	ojeiporavóva	
+Votos	poravo	
+Cambiar	moambue	
+Nota	jehai	
+ha cambiado su tipo de perfil actual, el cual requiere de aprobación	emoambue nde rekorenda, oikotevẽ ñemoneĩ rehe	
+Total de usuarios registrados en el sitio este mes	puruhára oikéva ko tendápe ko jasy pukukuépe	
+Los grupos más populares hasta la fecha	aty ojeikuaavéva ko ára peve	
+Total de fotos cargadas en el sitio	ta'anga retakue ojehupíva ko tendápe	
+Los usuarios más populares del sitio	puruhára ojeikuaavéva ko tendápe	
+Las fotos más vistas	ta'angakuéra ojehechavéva	
+Los videos más vistos	ta'angamýi ojehechavéva	
+Agrégalo!	embojoapy!	
+El debate se ha bloqueado	ñemohovairã ñemboyke	
+El debate ha sido desbloqueado	ñembohovairã noñemboykevéi	
+Primer nombre	téra peteĩha	
+Apellido	terajoapy	
+Muros marcados como spam	tekorendakuéra ojehecháva spam-ramo	
+Debate marcado como spam	ñembohovairã ojeiporavóva spam-ramo	
+Publicado desde	oñemyasãiva …guive	
+Ver mapa grande	yvyra'anga tuicháva jehecha	
+Zona horaria	aravo tenda rehegua	
+Di lo que está en tu mente...	ere neakãreñóiva	
+Di algo acerca de estas fotos...	ere neremiandu ko'ã ta'angágui	
+Di algo acerca de estos videos...	ere neremiandu ko'ã ta'angamýigui	
+Di algo acerca de estas enlaces...	ere neremiandu ko'ã joajúgui	
+Di algo acerca de este evento...	ere neremiandu ko tembiapo rehegua	
+leer más	emoñe'ẽve	
+leer menos	emoñe'ẽ'ive	
+Ver ubicación	tenda  jehecha	
+Ninguno	mavavéva	
+es un miembro de y quisiera compartir una expriencia contigo. Para registrarte, simplemente has clik en el	
+siguiente botón	ha'e atygua ha omoirũse oikuaáva nendive. Eike hağua ehesakutu ko'ápe	
+Mal usuario	oipuruvaíva	
+Enero	jasyteĩ	
+Febrero	jasykõi	
+Marzo	jasyapy	
+Abril	jasyrundy	
+Mayo	jasypo	
+Junio	jasypoteĩ	
+Julio	jasypokõi	
+Agosto	jasypoapy	
+Septiembre	jasyporundy	
+Octubre	jasypa	
+Noviembre	jasypateĩ	
+Diciembre	jasypakõi	
+Invitar a tus amigos desde Facebook	eipepirũ neangirũnguéra Facebook guive	
+Permitir obtener actualizaciones desde tu cuenta Facebook	ñemoneĩ ojeguereko hağua marandu pyahu  nde Facebook rogue guive	
+Nombre de usuario	puruhára réra	
+Tu nombre	nde réra	
+Cambiar video	ta'angamýi ñemoambue	
+Próximo	oúva, péva rire	
+Fecha	arange	
+Fecha de inicio	arange ñepyrũha	
+Fecha de Culminación	arange mohu'ãha	
+Fecha y Hora de inicio de su evento	arange ha aravo tembiapo ñepyrũha	
+Fecha y hora de finalización de su evento	arange ha aravo tembiapo ñemohu'ã rehegua	
+Tipo	mba'éichagua	
+Tu tipo de evento	nerembiapo	
+Público	oñemyasãiva	
+Ya existe un evento con el mismo título, ubicación, fecha y hora	oĩma tembiapo héra, henda, arange ha aravóva péicha avei	
+No puedes crear un evento con una fecha ya pasada	ndikatúi emoheñói tembiapo iñarange hasapyréva	
+Quizás	oiméne	
+Imprimir evento	tembiapo mbokuatiara'anga	
+Cargar desde tu computadora	ehupi nde computadora guive	
+Agregar Link	embojoapy Link	
+Clase desconocida para campo	Ojeikuaa'ỹva ko toguépe ğuarã	
+Mensaje	Ne'ẽmondo	
