@@ -9871,8 +9871,8 @@ Entonces os daremos nuestras hijas, y tomaremos nosotros las vuestras; habitarem
 Pero si no nos prestáis oído en lo de circuncidaros, tomaremos nuestra hija y nos iremos.
 Parecieron bien sus palabras a Hamor y a Siquem hijo de Hamor.
 Y no tardó el joven en hacer aquello, porque la hija de Jacob le había agradado. Él mismo era el más distinguido en toda la casa de su padre.
-Entonces Hamor y su hijo Siquem fueron a la puerta de su ciudad y hablaron a los hombres del lugar, diciéndoles:
-—Estos hombres son pacíficos con nosotros; que habiten, pues, en el país y comercien en él, porque la tierra es bastante ancha para ellos; nosotros tomaremos sus hijas por mujeres y les daremos las nuestras.
+Entonces Hamor y su hijo Siquem fueron a la puerta de su ciudad y hablaron a los hombres del lugar
+diciéndoles: —Estos hombres son pacíficos con nosotros; que habiten, pues, en el país y comercien en él, porque la tierra es bastante ancha para ellos; nosotros tomaremos sus hijas por mujeres y les daremos las nuestras.
 Pero sólo con esta condición consentirán estos hombres en habitar con nosotros para que seamos un pueblo: que se circuncide todo varón entre nosotros, como ellos son circuncidados.
 Su ganado, sus bienes y todas sus bestias serán nuestros; solamente convengamos con ellos, y habitarán con nosotros.
 Obedecieron a Hamor y a su hijo Siquem todos los que salían por la puerta de la ciudad, y circuncidaron a todo varón, a cuantos salían por la puerta de su ciudad.
@@ -11579,7 +11579,7 @@ para que se sepa desde el nacimiento del sol hasta donde se pone, que no hay má
 Yo formo la luz y creo las tinieblas, hago la paz y creo la adversidad. Sólo yo, Jehová, soy el que hago todo esto.
 »Rociad, cielos, desde arriba, y las nubes destilen la justicia; ábrase la tierra y prodúzcanse la salvación y la justicia; háganse brotar juntamente. Yo, Jehová, lo he creado.
 »¡Ay del que, no siendo más que un tiesto como cualquier tiesto de la tierra, pleitea con su Hacedor! ¿Dirá el barro al que lo modela: “¿Qué haces?”, o: “Tu obra, ¿no tiene manos?”?
-¡Ay del que dice al padre: “¿Por qué engendraste?”, y a la mujer: “¿Por qué diste a luz?”!»
+¡Ay del que dice al padre: “¿Por qué engendraste?”, y a la mujer: “¿Por qué diste a luz?”!
 Así dice Jehová, el Santo de Israel, el que lo formó: «Preguntadme de las cosas por venir; mandadme acerca de mis hijos y acerca de la obra de mis manos.
 Yo hice la tierra y creé sobre ella al ser humano. Yo, mis manos, desplegaron los cielos y pongo en orden todo su ejército.
 Yo lo desperté en justicia y enderezaré todos sus caminos; él edificará mi ciudad y soltará a mis cautivos; no por precio ni por dones», dice Jehová de los ejércitos.
@@ -12572,7 +12572,7 @@ Así ha dicho Jehová: «El pueblo que escapó de la espada halló gracia en el 
 Jehová se me manifestó hace ya mucho tiempo, diciendo: “Con amor eterno te he amado; por eso, te prolongué mi misericordia.
 Volveré a edificarte: serás reedificada, virgen de Israel. De nuevo serás adornada con tus panderos y saldrás en alegres danzas.
 Volverás a plantar viñas en los montes de Samaria; plantarán los que plantan y disfrutarán de ellas,
-porque habrá día en que clamarán los guardas en los montes de Efraín: ‘¡Levantaos y subamos a Sión, a Jehová, nuestro Dios!’”»
+porque habrá día en que clamarán los guardas en los montes de Efraín: ‘¡Levantaos y subamos a Sión, a Jehová, nuestro Dios!’”
 Así ha dicho Jehová: «Regocijaos en Jacob con alegría; dad voces de júbilo a la cabeza de naciones. ¡Haced oír, alabad y decid: “Salva, Jehová, a tu pueblo, el resto de Israel”!
 Yo los hago volver de la tierra del norte, los reuniré de los extremos de la tierra; entre ellos, juntamente, a ciegos y a cojos, a la mujer que está encinta y a la que dio a luz. En gran compañía volverán acá.
 Irán con llanto, mas con misericordia los haré volver y los haré andar junto a arroyos de aguas, por camino derecho en el cual no tropezarán, porque yo soy el padre de Israel, y Efraín es mi primogénito.
@@ -17676,7 +17676,7 @@ sálvate a ti mismo y desciende de la cruz.
 De esta manera también los principales sacerdotes, burlándose, se decían unos a otros, con los escribas: —A otros salvó, pero a sí mismo no se puede salvar.
 ¡El Cristo! ¡Rey de Israel! ¡Que descienda ahora de la cruz, para que veamos y creamos! También los que estaban crucificados con él lo insultaban.
 Cuando vino la hora sexta, hubo tinieblas sobre toda la tierra hasta la hora novena.
-Y a la hora novena Jesús clamó a gran voz, diciendo: —¡Eloi, Eloi!, ¿lama sabactani? (que significa: “Dios mío, Dios mío, ¿por qué me has desamparado?”).
+Y a la hora novena Jesús clamó a gran voz, diciendo: —¡Eloi, Eloi!, ¿lama sabactani? que significa: “Dios mío, Dios mío, ¿por qué me has desamparado?”.
 Algunos de los que estaban allí decían, al oírlo: —Mirad, llama a Elías.
 Corrió uno y, empapando una esponja en vinagre, la puso en una caña y le dio a beber, diciendo: —Dejad, veamos si viene Elías a bajarlo.
 Pero Jesús, lanzando un fuerte grito, expiró.
@@ -18740,7 +18740,7 @@ De esta manera también los principales sacerdotes, junto con los escribas, los 
 Confió en Dios; líbrelo ahora si le quiere, porque ha dicho: “Soy Hijo de Dios.”»
 Del mismo modo lo insultaban los ladrones que habían sido crucificados con él.
 Desde la hora sexta hubo tinieblas sobre toda la tierra hasta la hora novena.
-Cerca de la hora novena, Jesús clamó a gran voz, diciendo: «Elí, Elí, ¿lama sabactani?» (que significa: «Dios mío, Dios mío, ¿por qué me has desamparado?»).
+Cerca de la hora novena, Jesús clamó a gran voz, diciendo: «Elí, Elí, ¿lama sabactani?» que significa: «Dios mío, Dios mío, ¿por qué me has desamparado?».
 Algunos de los que estaban allí decían al oírlo: —A Elías llama éste.
 Al instante, corriendo uno de ellos, tomó una esponja, la empapó de vinagre, la puso en una caña y le dio a beber.
 Pero los otros decían: —Deja, veamos si viene Elías a librarlo.
